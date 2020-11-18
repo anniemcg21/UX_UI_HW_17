@@ -1,0 +1,42 @@
+/*header*/
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin-left: auto;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: left;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+    text-align: right;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline;
+    padding: 16px;
+}
+/*heroImg*/
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+
+}
+footer {
+    background-color: #a3a3a3;
+    display: block;
+    text-align: right;
+}
+.footerList {
+    display: inline-block;
+    vertical-align: top;
+}
